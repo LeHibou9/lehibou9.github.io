@@ -12,6 +12,7 @@ myImage.onclick = function() {
 	}
 }
 
+/*
 function setUserName() {
 	let myName = prompt('Hey buddy, what\'s your name?');
 	if(!myName) {
@@ -21,5 +22,6 @@ function setUserName() {
 		myHeading.textContent = 'Hello world, ' + myName + '!';
 	}
 }
+*/
 
 myImage.onclick = setUserName()
