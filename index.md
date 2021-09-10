@@ -2,7 +2,8 @@
 
 ## Introduction
 
-![MLOps schema, from https://ml-ops.org/img/mlops-loop-en.jpg](https://ml-ops.org/img/mlops-loop-en.jpg)
+![Image](https://ml-ops.org/img/mlops-loop-en.jpg)
+https://ml-ops.org/content/mlops-principles
 
 
 
