@@ -2,9 +2,6 @@
 
 I wrote this page to follow my learning of Chinese. I plan 
 
-## Grammar
-
-### 被 - bèi: A passive sentence
-
+This page is divided into several sections: [grammar](grammar.md), [sentences](sentences.md) and [cheatsheet](cheatsheet.md).
 
 
