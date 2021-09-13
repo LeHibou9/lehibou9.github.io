@@ -18,7 +18,7 @@ Chinese | Pinyin | Translation
 
 Chinese | Pinyin | Translation
 ------------ | ------------- | -------------
-. | . | .
+非常 | Fēicháng | Very
 
 
 ### Adjectives
