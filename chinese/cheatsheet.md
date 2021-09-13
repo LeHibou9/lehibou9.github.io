@@ -1,6 +1,8 @@
 # Chinese cheatsheet
 
-## To apologize
+## Situations
+
+### To apologise
 
 Chinese | Pinyin | Translation
 ------------ | ------------- | -------------
@@ -8,3 +10,19 @@ Chinese | Pinyin | Translation
 很抱歉 | Hěn bàoqiàn | I'm sorry.
 没关系 |  Meíguānxi | It doesn't matter.
 没什么 |  Méi shénme | It's nothing.
+
+
+## Words
+
+### Adverbs
+
+Chinese | Pinyin | Translation
+------------ | ------------- | -------------
+. | . | .
+
+
+### Adjectives
+
+Chinese | Pinyin | Translation
+------------ | ------------- | -------------
+. | . | .
