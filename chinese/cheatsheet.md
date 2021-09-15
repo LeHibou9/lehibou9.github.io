@@ -19,6 +19,7 @@ Chinese | Pinyin | Translation
 Chinese | Pinyin | Translation
 ------------ | ------------- | -------------
 非常 | Fēicháng | Very
+最近 | Zuìjìn | Récemment
 
 
 ### Adjectives
