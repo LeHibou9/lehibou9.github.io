@@ -20,6 +20,7 @@ Chinese | Pinyin | Translation
 ------------ | ------------- | -------------
 非常 | Fēicháng | Very
 最近 | Zuìjìn | Récemment
+已经 | Yǐjīng | Déjà
 
 
 ### Adjectives
